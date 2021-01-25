@@ -1,0 +1,6 @@
+#myTooltip {
+  position: absolute;
+  background-color: lightgray;
+  padding: 2px 4px;
+  font-size: 10px;
+}
