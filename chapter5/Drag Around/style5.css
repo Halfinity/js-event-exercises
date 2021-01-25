@@ -1,0 +1,16 @@
+#draggable {
+  width: 200px;
+  height: 20px;
+  text-align: center;
+  background: rgb(255, 2, 2);
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.dropzone {
+  width: 200px;
+  height: 20px;
+  background: rgb(24, 123, 189);
+  margin-bottom: 10px;
+  padding: 10px;
+}
